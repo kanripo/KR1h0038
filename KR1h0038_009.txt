@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 四書纂箋
-#+DATE: 2016-04-12 14:02:07.692111
+#+DATE: 2016-04-12 14:02:08.807695
 #+PROPERTY: ID KR1h0038
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 9
 <pb:KR1h0038_WYG_009-1a>¶
 　　欽定四庫全書¶
@@ -229,7 +229,7 @@
 當賣之但當待賈而不當求之耳　范氏曰君子未¶
 嘗不欲仕也又惡(去聲)不由其道士之待禮猶玉之待¶
 賈也若伊尹之耕於野伯夷太公之居於海濱世無¶
-成湯文王則終焉而已必不枉道以從人&KR0247;(音眩)玉而¶
+成湯文王則終焉而已必不枉道以從人衒(音眩)玉而¶
 求售(音夀)也¶
 ¶
 　　○子欲居九夷¶
